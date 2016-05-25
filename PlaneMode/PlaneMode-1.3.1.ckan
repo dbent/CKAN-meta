@@ -18,6 +18,9 @@
         },
         {
             "name": "HotSpot"
+        },
+        {
+            "name": "AwesomeMod"
         }
     ],
     "download": "https://github.com/Apokee/PlaneMode/releases/download/v1.3.1/PlaneMode-1.3.1.zip",
