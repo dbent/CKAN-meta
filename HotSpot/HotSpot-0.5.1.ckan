@@ -19,6 +19,9 @@
         },
         {
             "name": "GPOSpeedFuelPump"
+        },
+        {
+            "name": "FinalFrontier"
         }
     ],
     "supports": [
