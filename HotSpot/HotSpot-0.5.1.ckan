@@ -16,6 +16,9 @@
         {
             "name": "ModuleManager",
             "min_version": "2.6.5"
+        },
+        {
+            "name": "GPOSpeedFuelPump"
         }
     ],
     "supports": [
